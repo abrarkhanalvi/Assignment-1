@@ -17,7 +17,8 @@ h1{
 }
 .half-width{
     width: 100%;
-    padding: 50px,20px,40px,20px;
+    padding: 5%;
+
 }
 .half-width img{
     width: 70%;
@@ -80,4 +81,10 @@ footer{
 }
 .discussion{
     padding: 50px,20px,40px,20px;
+}
+.app{
+    text-align: center;
+}
+#app-erkhela{
+    padding: auto;
 }
